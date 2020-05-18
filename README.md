@@ -7,4 +7,4 @@ Trimestre_XX
 
     Nombre_ramo
     
-        Tarea_XX
+        Trabajo_XX
